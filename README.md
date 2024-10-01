@@ -10,9 +10,7 @@
 
 <h3 align="left" style="font-size: 30px;">🎓 Education</h3>
 <p style="font-size: 20px;">
-  - Kwangwoon University, Korea<br>
-  &nbsp;&nbsp;&nbsp;&nbsp; Electrical Engineering<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;(2022.02 ~ )
+  - Kwangwoon University, Korea<br> Electrical Engineering<br> (2022.02 ~ )
 </p>
 
 <h3 align="left" style="font-size: 30px;">💼 Experience</h3>
