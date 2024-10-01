@@ -1,30 +1,30 @@
-<h1 align="center">Hi 👋, I'm SOYEON AHN</h1>
+<h1 align="center">Hi, I'm SOYEON AHN</h1>
 <h3 align="center">A passionate electrical engineering student with expertise in electric traction systems, from Kwangwoon University, Korea</h3>
 <img src="https://github.com/SOYAHN02/SOYAHN02/blob/main/%EC%95%88%EC%86%8C%EC%97%B0%20%EC%B7%A8%EC%97%85%EC%82%AC%EC%A7%84.jpg?raw=true" alt="Soyeon Ahn" style="width: 200px; height: auto; border-radius: 10px;">
 
-<h3 align="left" style="font-size: 30px;">🔭 Certifications</h3>
+<h3 align="left" style="font-size: 30px;">Certifications</h3>
 <p style="font-size: 20px;">
   &nbsp;&nbsp;&nbsp;&nbsp;TOEIC Speaking IM3<br>
   &nbsp;&nbsp;&nbsp;&nbsp;Korean History Proficiency Test Level 2
 </p>
 
-<h3 align="left" style="font-size: 30px;">🎓 Education</h3>
+<h3 align="left" style="font-size: 30px;">Education</h3>
 <p style="font-size: 20px;">
   - Kwangwoon University, Korea<br> Electrical Engineering<br> (2022.02 ~ )
 </p>
 
-<h3 align="left" style="font-size: 30px;">💼 Experience</h3>
+<h3 align="left" style="font-size: 30px;">Experience</h3>
 <p style="font-size: 20px;">
-  &nbsp;&nbsp;&nbsp;&nbsp;- Conducted electrical safety education program for elementary students at Hyundai Motor Chung Mong-Koo Foundation (July 24, 2023 - July 28, 2023)<br>  
+  &nbsp;&nbsp;&nbsp;&nbsp;  - Conducted electrical safety education program for elementary students at Hyundai Motor Chung Mong-Koo Foundation (July 24, 2023 - July 28, 2023)<br>  
   
-  &nbsp;&nbsp;&nbsp;&nbsp;- Vice President of the Electrical Engineering Student Association at Kwangwoon University (January 1, 2023 - December 31, 2023)<br>  
+  &nbsp;&nbsp;&nbsp;&nbsp;  - Vice President of the Electrical Engineering Student Association at Kwangwoon University (January 1, 2023 - December 31, 2023)<br>  
   &nbsp;&nbsp;&nbsp;&nbsp;Role: Planning and executing events within the department  
   
-  &nbsp;&nbsp;&nbsp;&nbsp;- Head of the Planning Division of the Emergency Response Committee at the College of Electronics and Information Engineering, Kwangwoon University (January 1, 2024 - Present)    
+  &nbsp;&nbsp;&nbsp;&nbsp;  - Head of the Planning Division of the Emergency Response Committee at the College of Electronics and Information Engineering, Kwangwoon University (January 1, 2024 - Present)    
   &nbsp;&nbsp;&nbsp;&nbsp;Role: Planning and executing events within the college    
 </p>
 
-<h3 align="left" style="font-size: 30px;">📝 Portfolio of Completed Projects</h3>
+<h3 align="left" style="font-size: 30px;">Portfolio of Completed Projects</h3>
 <p style="font-size: 20px;">
   - A project conducted in the second half of 2023 <br>
   &nbsp;&nbsp;&nbsp;&nbsp;Lithium-ion battery charger with MOSFET<br><br>
@@ -39,7 +39,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;Speakers for deaf and non-disabled people with added audio level meters for each frequency band
 </p>
 
-<h3 align="left" style="font-size: 30px;">📚 Completed Courses</h3>
+<h3 align="left" style="font-size: 30px;">Completed Courses</h3>
 <p style="font-size: 20px;">
   &nbsp;&nbsp;&nbsp;&nbsp;- Semiconductor Device Engineering<br>
   &nbsp;&nbsp;&nbsp;&nbsp;- Practical Machine Learning in Electrical Engineering<br>
@@ -71,7 +71,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp; TOEIC(2024)
 </p>
 
-<h3 align="left" style="font-size: 30px;">🔍 Current Areas of Interest</h3>
+<h3 align="left" style="font-size: 30px;">Current Areas of Interest</h3>
 <p style="font-size: 20px;">
   &nbsp;&nbsp;&nbsp;&nbsp;- Current traction motor technologies and their development directions in railway vehicles
 </p>
