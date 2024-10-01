@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SOYEON AHN</h1>
 <h3 align="center">A passionate electrical engineering student with expertise in electric traction systems, from Kwangwoon University, Korea</h3>
-<img src="https://drive.google.com/uc?export=view&id=1KII_rdMnrDEtnrJC5RKXSmMIZFPkA0VQ" alt="Soyeon Ahn" style="width: 200px; height: auto; border-radius: 10px;">
+<img src="https://github.com/SOYAHN02/SOYAHN02/blob/main/%EC%95%88%EC%86%8C%EC%97%B0%20%EC%B7%A8%EC%97%85%EC%82%AC%EC%A7%84.jpg?raw=true" alt="Soyeon Ahn" style="width: 200px; height: auto; border-radius: 10px;">
 
 <h3 align="left" style="font-size: 30px;">🔭 Certifications</h3>
 <p style="font-size: 20px;">
@@ -23,14 +23,11 @@
   &nbsp;&nbsp;&nbsp;&nbsp;Role: Planning and executing events within the department
   
   &nbsp;&nbsp;&nbsp;&nbsp;- Head of the Planning Division of the Emergency Response Committee at the College of Electronics and Information Engineering, Kwangwoon University (January 1, 2024 - Present)  
-  &nbsp;&nbsp;&nbsp;&nbsp;  Role: Planning and executing events within the college  
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;Role: Planning and executing events within the college  
 </p>
 
 <h3 align="left" style="font-size: 30px;">📝 Portfolio of Completed Projects</h3>
 <p style="font-size: 20px;">
-
-  
   - A project conducted in the second half of 2023 <br>
   &nbsp;&nbsp;&nbsp;&nbsp;**Lithium-ion battery charger with MOSFET**<br><br>
 
@@ -72,8 +69,7 @@
 
 <h3 align="left" style="font-size: 30px;">ToDoList</h3>  
 <p style="font-size: 20px;">
-  
-  &nbsp;&nbsp;&nbsp;&nbsp; **Obtained Electrical Engineer Certificate**(2025)</h3>  
+  &nbsp;&nbsp;&nbsp;&nbsp; **Obtained Electrical Engineer Certificate**(2025)<br>  
   &nbsp;&nbsp;&nbsp;&nbsp; **TOEIC**(2024)
 </p>
 
@@ -85,5 +81,4 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   ahnsoy0221@gmail.com
-  
 </p>
