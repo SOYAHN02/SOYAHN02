@@ -65,6 +65,13 @@
   &nbsp;&nbsp;&nbsp;&nbsp;- Understanding Artificial Intelligence
 </p>
 
+<h3 align="left" style="font-size: 30px;">ToDoList</h3>  
+<p style="font-size: 20px;">
+  
+  &nbsp;&nbsp;&nbsp;&nbsp; **Obtained Electrical Engineer Certificate**(2025)</h3>  
+  &nbsp;&nbsp;&nbsp;&nbsp; **TOEIC**(2024)
+</p>
+
 <h3 align="left" style="font-size: 30px;">🔍 Current Areas of Interest</h3>
 <p style="font-size: 20px;">
   &nbsp;&nbsp;&nbsp;&nbsp;- Current traction motor technologies and their development directions in railway vehicles
