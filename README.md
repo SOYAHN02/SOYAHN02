@@ -18,8 +18,13 @@
 <h3 align="left" style="font-size: 30px;">💼 Experience</h3>
 <p style="font-size: 20px;">
   &nbsp;&nbsp;&nbsp;&nbsp;- Conducted electrical safety education program for elementary students at Hyundai Motor Chung Mong-Koo Foundation (July 24, 2023 - July 28, 2023)<br>
+  
   &nbsp;&nbsp;&nbsp;&nbsp;- Vice President of the Electrical Engineering Student Association at Kwangwoon University (January 1, 2023 - December 31, 2023)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;- Head of the Planning Division of the Emergency Response Committee at the College of Electronics and Information Engineering, Kwangwoon University (January 1, 2024 - Present)
+  &nbsp;&nbsp;&nbsp;&nbsp;Role: Planning and executing events within the department
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;- Head of the Planning Division of the Emergency Response Committee at the College of Electronics and Information Engineering, Kwangwoon University (January 1, 2024 - Present)  
+  &nbsp;&nbsp;&nbsp;&nbsp;  Role: Planning and executing events within the college  
+  
 </p>
 
 <h3 align="left" style="font-size: 30px;">📝 Portfolio of Completed Projects</h3>
