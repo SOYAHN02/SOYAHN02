@@ -17,28 +17,28 @@
 
 <h3 align="left" style="font-size: 30px;">💼 Experience</h3>
 <p style="font-size: 20px;">
-  &nbsp;&nbsp;&nbsp;&nbsp;- Conducted electrical safety education program for elementary students at Hyundai Motor Chung Mong-Koo Foundation (July 24, 2023 - July 28, 2023)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;- Conducted electrical safety education program for elementary students at Hyundai Motor Chung Mong-Koo Foundation (July 24, 2023 - July 28, 2023)<br>  
   
-  &nbsp;&nbsp;&nbsp;&nbsp;- Vice President of the Electrical Engineering Student Association at Kwangwoon University (January 1, 2023 - December 31, 2023)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;Role: Planning and executing events within the department
+  &nbsp;&nbsp;&nbsp;&nbsp;- Vice President of the Electrical Engineering Student Association at Kwangwoon University (January 1, 2023 - December 31, 2023)<br>  
+  &nbsp;&nbsp;&nbsp;&nbsp;Role: Planning and executing events within the department  
   
-  &nbsp;&nbsp;&nbsp;&nbsp;- Head of the Planning Division of the Emergency Response Committee at the College of Electronics and Information Engineering, Kwangwoon University (January 1, 2024 - Present)  
-  &nbsp;&nbsp;&nbsp;&nbsp;Role: Planning and executing events within the college  
+  &nbsp;&nbsp;&nbsp;&nbsp;- Head of the Planning Division of the Emergency Response Committee at the College of Electronics and Information Engineering, Kwangwoon University (January 1, 2024 - Present)    
+  &nbsp;&nbsp;&nbsp;&nbsp;Role: Planning and executing events within the college    
 </p>
 
 <h3 align="left" style="font-size: 30px;">📝 Portfolio of Completed Projects</h3>
 <p style="font-size: 20px;">
   - A project conducted in the second half of 2023 <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;**Lithium-ion battery charger with MOSFET**<br><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;Lithium-ion battery charger with MOSFET<br><br>
 
   - A project conducted in the first half of 2023 <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;**Battery remaining tester with OP-Amp**<br><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;Battery remaining tester with OP-Amp<br><br>
 
   - A project conducted in the first half of 2024 (1) <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;**Predicting Solar Power Generation Intervals Using Multinomial Classification**<br><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;Predicting Solar Power Generation Intervals Using Multinomial Classification<br><br>
 
   - A project conducted in the first half of 2024 (2) <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;**Speakers for deaf and non-disabled people with added audio level meters for each frequency band**
+  &nbsp;&nbsp;&nbsp;&nbsp;Speakers for deaf and non-disabled people with added audio level meters for each frequency band
 </p>
 
 <h3 align="left" style="font-size: 30px;">📚 Completed Courses</h3>
@@ -69,8 +69,8 @@
 
 <h3 align="left" style="font-size: 30px;">ToDoList</h3>  
 <p style="font-size: 20px;">
-  &nbsp;&nbsp;&nbsp;&nbsp; **Obtained Electrical Engineer Certificate**(2025)<br>  
-  &nbsp;&nbsp;&nbsp;&nbsp; **TOEIC**(2024)
+  &nbsp;&nbsp;&nbsp;&nbsp; Obtained Electrical Engineer Certificate(2025)<br>  
+  &nbsp;&nbsp;&nbsp;&nbsp; TOEIC(2024)
 </p>
 
 <h3 align="left" style="font-size: 30px;">🔍 Current Areas of Interest</h3>
