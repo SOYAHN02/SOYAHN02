@@ -73,4 +73,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   ahnsoy0221@gmail.com
+  010-4143-9281
 </p>
